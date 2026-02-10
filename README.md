@@ -1,2 +1,2 @@
-# MyVisitorTracker
-A unique Python Flask project that tracks visitors in real-time. Users can submit
+MyVisitorTracker
+A beginner Python project that tracks program visits using file handling.
